@@ -208,3 +208,83 @@ Ao conectar estabelecimentos, consumidores e instituições sociais, a solução
 
 **Equipe Retaste**
 
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="imagens/rafael.jpeg" width="80" height="80" alt="Rafael Madeira"/>
+      <br><br>
+      <strong>Rafael Madeira</strong>
+      <br>
+      <sub>Banco de Dados</sub>
+      <br>
+      <sub>RM 575635 · 1TDSPA</sub>
+      <br><br>
+      <a href="https://www.linkedin.com/in/rafael-madeira-b8545b312/">LinkedIn</a>
+      ·
+      <a href="https://github.com/Ribeir0296">GitHub</a>
+    </td>
+
+<td align="center" width="180">
+  <img src="imagens/enrique.jpeg" width="80" height="80" alt="Enrique Trindade"/>
+  <br><br>
+  <strong>Enrique Trindade</strong>
+  <br>
+  <sub>Chatbot</sub>
+  <br>
+  <sub>RM 576314 · 1TDSPA</sub>
+  <br><br>
+  <a href="https://www.linkedin.com/in/enrique-trindade-46a0012b4/">LinkedIn</a>
+  ·
+  <a href="https://github.com/enriquetrindade">GitHub</a>
+</td>
+
+<td align="center" width="180">
+  <img src="imagens/pollo.jpeg" width="80" height="80" alt="Julio Bernardes"/>
+  <br><br>
+  <strong>Julio Bernardes</strong>
+  <br>
+  <sub>Desenvolvimento Python</sub>
+  <br>
+  <sub>RM 575649 · 1TDSPA</sub>
+  <br><br>
+  <a href="https://www.linkedin.com/in/julio-bernardes-da-silva-40738b431/">LinkedIn</a>
+  ·
+  <a href="https://github.com/JulioSilva101">GitHub</a>
+</td>
+
+<td align="center" width="180">
+  <img src="imagens/marina.jpeg" width="80" height="80" alt="Marina Queiroz"/>
+  <br><br>
+  <strong>Marina Queiroz</strong>
+  <br>
+  <sub>Java e Business Model</sub>
+  <br>
+  <sub>RM 574491 · 1TDSPA</sub>
+  <br><br>
+  <a href="https://www.linkedin.com/in/marina-santana-queiroz-9baa77241/">LinkedIn</a>
+  ·
+  <a href="https://github.com/marinasantanaq">GitHub</a>
+</td>
+
+<td align="center" width="180">
+  <img src="imagens/sofia.jpg" width="80" height="80" alt="Sofia Oliveira Gonçalves"/>
+  <br><br>
+  <strong>Sofia Oliveira</strong>
+  <br>
+  <sub>Designer</sub>
+  <br>
+  <sub>RM 576524 · 1TDSPA</sub>
+  <br><br>
+  <a href="https://www.linkedin.com/in/sofia-goncalves-272472431/">LinkedIn</a>
+  ·
+  <a href="https://github.com/sofiaolivagoliva">GitHub</a>
+</td>
+
+  </tr>
+</table>
+
+</div>
+
+
